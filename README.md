@@ -20,6 +20,6 @@
  <a href="https://discord.com/channels/829093155810050120/829093155810050122" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "jonnas.lafayethe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/LafayetheJonnas/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LafayetheJonnas/LafayetheJonnas/blob/output/github-contribution-grid-snake.svg)
 
 </div>
